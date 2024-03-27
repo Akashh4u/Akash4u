@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Mahajan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt ="coding" width ="400" src="https://i.pinimg.com/originals/c1/c2/42/c1c242a44d69301f62d60d14b162b62c.gif">
+<img align="right" alt ="coding" width ="200" src="https://i.pinimg.com/originals/c1/c2/42/c1c242a44d69301f62d60d14b162b62c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashh4u&label=Profile%20views&color=0e75b6&style=flat" alt="akashh4u" /> </p>
 
