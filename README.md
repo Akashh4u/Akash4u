@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-<img align="right" alt="coding" widht="400" src="https://steamuserimages-a.akamaihd.net/ugc/2021604881332034200/499E235B61D7BC5C1A9293DB187E1892F986A710/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="coding" widht="400" src="[https://steamuserimages-a.akamaihd.net/ugc/2021604881332034200/499E235B61D7BC5C1A9293DB187E1892F986A710/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.pinimg.com/originals/c1/c2/42/c1c242a44d69301f62d60d14b162b62c.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashh4u&label=Profile%20views&color=0e75b6&style=flat" alt="akashh4u" /> </p>
 
 - 📫 How to reach me **akashmahajanam1603@gmail.com**
