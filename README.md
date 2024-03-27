@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Mahajan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
-<img align="right alt="coding" widht="400" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-364.gif">
+<img align="right alt="coding" widht="400" src="https://steamuserimages-a.akamaihd.net/ugc/2021604881332034200/499E235B61D7BC5C1A9293DB187E1892F986A710/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashh4u&label=Profile%20views&color=0e75b6&style=flat" alt="akashh4u" /> </p>
 
 - 📫 How to reach me **akashmahajanam1603@gmail.com**
